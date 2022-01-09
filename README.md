@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rich-Park
-- 👀 I’m a sophomore at Vanderbilt University studying Computer Science with an interest in Mechanical Engineering and Economics
+- 👀 I’m a sophomore at Vanderbilt University studying Computer Science with an interest in Economics
 - 🌱 I’m currently applying for software engineering internships
 - 📫 You can reach me at:
         Email: rich0.1vx@gmail.com
