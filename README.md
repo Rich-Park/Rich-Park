@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rich-Park
-- 👀 I’m a sophomore at Vanderbilt University studying Computer Science with an interest in Economics
-- 🌱 I’m currently applying for software engineering internships
+- 👀 I’m a sophomore at Vanderbilt University studying Computer Science and Economics
+- 🌱 I’m currently interning for Samsung Electronics America as a Software Engineering Intern!
 - 📫 You can reach me at:
         Email: rich0.1vx@gmail.com
         LinkedIn: www.linkedin.com/in/richpark1
