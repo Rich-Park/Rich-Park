@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rich-Park
 - 👀 I’m a junior at Vanderbilt University studying Computer Science and Economics
-- 🌱 I interned for Samsung Electronics America this past summer as a Software Engineering Intern!
+- 🌱 I will be a Software Engineer Intern at Splunk next summer and have previously interned at Samsung
 - [Check out my Web Dev workshops for Vanderbilt University's Google Developer Student Club!](https://github.com/vanderbiltgdsc)
 - 📫 You can reach me at:
         Email: rich0.1vx@gmail.com
