@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Incoming Software Engineer at Splunk
 ---------------------------
 
-I'm a senior studying CS & Econ at Vanderbilt University. This summer I will be a Software Engineer Intern at Splunk and previously interned at Samsung on the Samsung Gaming Hub team. I'm also the Vice President and Tech Lead of Vanderbilt's Google Developer Student Club.
+I'm a senior studying CS & Econ at Vanderbilt University. Upon graduation, I will be working as a Software Engineer at Splunk. I previously interned at Splunk and Samsung, and was also the Vice President and Tech Lead of Vanderbilt's Google Developer Student Club.
 
 * 🌍  I'm based in the Greater Chicago Area
 * 🖥️  Check out my [portfolio](http://richpark1.com/)
