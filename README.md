@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rich Park
 =================================================================================================================================
 
-Student & Software Engineer
+Incoming Software Engineer at Splunk
 ---------------------------
 
-I'm a junior studying CS & Econ at Vanderbilt University. This summer I will be a Software Engineer Intern at Splunk and previously interned at Samsung on the Samsung Gaming Hub team. I'm also the Vice President and Tech Lead of Vanderbilt's Google Developer Student Club.
+I'm a senior studying CS & Econ at Vanderbilt University. This summer I will be a Software Engineer Intern at Splunk and previously interned at Samsung on the Samsung Gaming Hub team. I'm also the Vice President and Tech Lead of Vanderbilt's Google Developer Student Club.
 
 * 🌍  I'm based in the Greater Chicago Area
-* 🖥️  See my portfolio at [MyPersonalWebsite](http://richpark1.com/)
+* 🖥️  Check out my [portfolio](http://richpark1.com/)
 * ✉️  You can contact me at [rich0.1vx@gmail.com](mailto:rich0.1vx@gmail.com)
 * 🧠  I'm learning advanced React concepts, Redux, Recoil, TypeScript
 * ⚡  I love playing soccer and eating amazing food
